@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+**/.env
+**/.env.local
+
+# Build output
+.next/
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code — local settings only; skills ARE part of the repo
+.claude/settings.local.json
+.claude/plans/
+
+# Playwright test artifacts
+playwright-report/
+reports/
+test-results/
+allure-results/
+allure-report/
+cucumber-report.html
+screenshot-failed-step.png

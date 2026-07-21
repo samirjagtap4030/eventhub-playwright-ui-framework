@@ -1,0 +1,22 @@
+[
+{
+  "userA": { "email": "xxxxxxxxxxxxxxxxxxxx", "password": "xxxxxxxxxxx" },
+  "userB": { "email": "xxxxxxxxxxxxxxxxxxxx", "password": "xxxxxxxxxxx" },
+  "customer": { "name": "Samir Tester", "email": "samir.tester@example.com", "phone": "+91 9876543210" },
+  "listBookingQuantity": 1,
+  "detailBookingQuantity": 2,
+  "cancelBookingQuantity": 1,
+  "clearAllEventIndexes": [0, 1, 2],
+  "isolationBookingQuantity": 3
+},
+{
+  "userA": { "email": "xxxxxxxxxxxxxxxxxxxx", "password": "xxxxxxxxxxx" },
+  "userB": { "email": "xxxxxxxxxxxxxxxxxxxx", "password": "xxxxxxxxxxx" },
+  "customer": { "name": "Priya Verifier", "email": "priya.verifier@example.com", "phone": "+91 9123456780" },
+  "listBookingQuantity": 1,
+  "detailBookingQuantity": 3,
+  "cancelBookingQuantity": 1,
+  "clearAllEventIndexes": [0, 1, 2],
+  "isolationBookingQuantity": 2
+}
+]
